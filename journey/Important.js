@@ -1,3 +1,4 @@
+// use clean code, avoid using not recommended code, and follow best practices to write clean and maintainable code. Always check documentation of mdn and tc39 spec for more details about JavaScript features and best practices.
 // Documentation: mdn and tc39 spec
 
 // To run code use node js, you can run this command in terminal: node journey/Important.js
