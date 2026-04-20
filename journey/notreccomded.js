@@ -39,3 +39,6 @@ console.log (null >= 0)
 // We are using node js to run this code, so alert will not work, but in browser it will work
 alert(3 + 3)
 
+console.log(myName + myAge)// old way of code not reccomended
+
+console.log( `Hy my name is ${myName.toUpperCase()} and I am ${myAge} year old`)// new way of code reccomended   
