@@ -131,3 +131,4 @@ const hundreds = 1000000
     console.log(Math.sinh(1));
     console.log(Math.tanh(1));
     console.log(Math.trunc(4.9));
+    
